@@ -1,5 +1,4 @@
 import requests
-import time
 
 
 def get_movie_data(movie_name):
@@ -46,5 +45,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
